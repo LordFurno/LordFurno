@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Tristan — a Grade 11 student from Waterloo, ON interested <br>in ML, algorithms, and building things that are actually hard to build.<br><br>Currently building a proof and reasoning verification engine for <br>math contest problems. 
+Hey, I'm Tristan, a Grade 11 student from Waterloo, ON interested <br>in ML, algorithms, and building things that are actually hard to build.<br><br>Currently building a proof and reasoning verification engine for <br>math contest problems. 
 
 
 # 💻 Tech Stack:
